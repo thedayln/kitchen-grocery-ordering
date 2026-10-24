@@ -33,3 +33,7 @@ Freshness for fruits and vegetables is an estimate from typical shelf life, not 
 ## Privacy
 
 You sign in to your own grocery account. Your addresses, orders and usuals stay in your bot's private memory and never go into this skill.
+
+## Updating
+
+This skill gets updates. Ask your bot to re-read it from https://github.com/thedayln/kitchen-grocery-ordering to get the latest version. If you forked it, tap "Sync fork" on GitHub. Watch the repo to hear about changes.
